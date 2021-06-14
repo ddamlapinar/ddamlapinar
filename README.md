@@ -1,4 +1,6 @@
 ### Hi there 👋
+[![Spotify](https://novatarem-ddamlapinar.vercel.app/api/spotify)](https://open.spotify.com/user/11132823169)
+
 
 <!--
 **ddamlapinar/ddamlapinar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
