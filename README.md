@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Spotify](https://novatarem-ddamlapinar.vercel.app/api/spotify)](https://open.spotify.com/user/11132823169)
+[![Spotify](https://ddamlapinar.vercel.app/api/spotify)](https://open.spotify.com/user/11132823169)
 
 
 <!--
